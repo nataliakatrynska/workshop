@@ -1,4 +1,4 @@
 # workshop
 
-- [soap](soap.md)
+- [soap](soap)
 - [soap2018](soap2018.md)
